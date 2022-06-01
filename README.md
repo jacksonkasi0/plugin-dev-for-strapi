@@ -1,1 +1,3 @@
-# plugin-dev-for-strapi
+# Strapi plugin todo
+
+A quick description of todo.

@@ -1,3 +1,9 @@
-# Strapi plugin todo
+# My Todo😉
 
-A quick description of todo.
+A simple todo application.
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/jacksonkasi0/plugin-dev-for-strapi/blob/master/assets/todo.jpeg?raw=true)
+

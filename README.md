@@ -1,6 +1,6 @@
 # My Todo😉
 
-A simple todo application.
+A simple todo plugin for strapi cms application.
 
 
 ## Screenshots
